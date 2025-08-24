@@ -1,0 +1,9 @@
+declare module "bcrypt";
+declare module "jsonwebtoken";
+declare module "nodemailer";
+declare module "passport";
+declare module "passport-google-oauth20";
+declare module "passport-facebook";
+declare module "passport-twitter";
+declare module "cookie-parser";
+declare module "stream-chat";
